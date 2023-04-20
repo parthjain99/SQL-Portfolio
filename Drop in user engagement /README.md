@@ -1,7 +1,4 @@
 <h1> Analyzing Drop in User engangement From Yammer Dataset</h1>
-<h2>Context</h2>
-<p>Yammer, a freemium enterprise social networking service, was established in 2008 with the aim of providing organizations with a private communication platform. It gained popularity quickly and in 2012, Microsoft acquired it for a staggering $1.2 billion, recognizing its potential in the enterprise collaboration space. Since the acquisition, Yammer has been integrated into Microsoft's Office 365 suite, making it widely accessible to businesses of all sizes.
-This is a case study of Yammer’s drop in user engagement from May to August of 2014. 
 
 <h2>Problem Statement</h2>
 <p>At the later half of August, Yammer detected a drop in overall user engagement through a graph that looks like this</p>
