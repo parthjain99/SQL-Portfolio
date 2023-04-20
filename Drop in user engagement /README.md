@@ -12,7 +12,7 @@
  ORDER BY weeks</code>
  
 
-<img src="https://github.com/parthjain99/SQL-Portfolio/blob/c527f201291fcdc6c810aa814675ac02f2e2380e/Drop%20in%20user%20engagement%20/Graphs/Drop%20in%20user%20retention.png"/>
+<img src="https://github.com/parthjain99/SQL-Portfolio/blob/438312486ab85fb71c049a859c4709674530ce54/Drop%20in%20user%20engagement%20/Graphs/DECRESE%20IN%20ACTIVE%20USERS.png"/>
 
 <h3>Task</h3>
 <p>My next step is to explore the reason behind the abrupt decrease in engagement and propose potential solutions to address it. To accomplish this, I will initially brainstorm and analyze the potential causes of the drop. Following that, I will examine the data and validate my assumptions using SQL. Once I have identified the most likely cause, I will provide recommendations for solutions and next steps. Finally, I will summarize by outlining improvements I could have made to this analysis for future reference.</p>
