@@ -1,8 +1,7 @@
 <h1> Analyzing Drop in User engangement From Yammer Dataset</h1>
 <h2>Context</h2>
 <p>Yammer, a freemium enterprise social networking service, was established in 2008 with the aim of providing organizations with a private communication platform. It gained popularity quickly and in 2012, Microsoft acquired it for a staggering $1.2 billion, recognizing its potential in the enterprise collaboration space. Since the acquisition, Yammer has been integrated into Microsoft's Office 365 suite, making it widely accessible to businesses of all sizes.
-This is a case study of Yammer’s drop in user engagement from May to August of 2014. Due to privacy reasons, the data used is not real and did not reflected real user engagement of the Yammer app at the time. 
-</p>
+This is a case study of Yammer’s drop in user engagement from May to August of 2014. 
 
 <h2>Problem Statement</h2>
 <p>At the later half of August, Yammer detected a drop in overall user engagement through a graph that looks like this</p>
@@ -17,17 +16,6 @@ This is a case study of Yammer’s drop in user engagement from May to August of
  
 
 <img src="https://github.com/parthjain99/SQL-Portfolio/blob/c527f201291fcdc6c810aa814675ac02f2e2380e/Drop%20in%20user%20engagement%20/Graphs/Drop%20in%20user%20retention.png"/>
-
-<h3>Below are the three data tables included in the dataset I utilized.<h4>
-<h4> Table 1: User Table<h4>
-<img src="https://github.com/parthjain99/SQL-Portfolio/blob/433ef1c6cdab4b3428deaf8ce73bfb41c318be3c/Drop%20in%20user%20engagement%20/Graphs/user_table.png"/>
-
-<h4> Table 2: Event Table<h4>
-<img src="https://github.com/parthjain99/SQL-Portfolio/blob/433ef1c6cdab4b3428deaf8ce73bfb41c318be3c/Drop%20in%20user%20engagement%20/Graphs/events_table.png"/>
-
-<h4> Table 3: Email Event Table<h4>
-<img src="https://github.com/parthjain99/SQL-Portfolio/blob/433ef1c6cdab4b3428deaf8ce73bfb41c318be3c/Drop%20in%20user%20engagement%20/Graphs/email_events.png"/>
-
 
 <h3>Task</h3>
 <p>My next step is to explore the reason behind the abrupt decrease in engagement and propose potential solutions to address it. To accomplish this, I will initially brainstorm and analyze the potential causes of the drop. Following that, I will examine the data and validate my assumptions using SQL. Once I have identified the most likely cause, I will provide recommendations for solutions and next steps. Finally, I will summarize by outlining improvements I could have made to this analysis for future reference.</p>
